@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://github.com/rclar/beautiful-jekyll/blob/e8bff5655e8a3d38d936ed5ccf21c804186a4ed6/assets/img/IMG_4771.jpeg"
+avatar: "https://raw.githubusercontent.com/rclar/beautiful-jekyll/master/assets/img/IMG_4771.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
